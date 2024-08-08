@@ -1,5 +1,11 @@
 # COMP3015-Referred-COURSEWORK
 
+## Github:
+https://github.com/ZhengqiGao1119/COMP3015-Referred-COURSEWORK
+
+## Youtube:
+https://youtu.be/--xvbjq0mPQ
+
 ## Environment
 - **Visual Studio Version:** [17.7.4]
 - **Operating System:** [Windows 11 Home Chinese Version]
@@ -23,6 +29,3 @@
 ## What makes your shader program special?
 - Implemented PBR rendering, which provides a more realistic scene effect compared to traditional Lambertian rendering models.
 - Implemented PCF shadows, which offer softer and more realistic shadow edges compared to hard shadows.
-
-## Youtube:
-https://youtu.be/--xvbjq0mPQ
